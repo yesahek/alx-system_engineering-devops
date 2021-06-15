@@ -4,5 +4,6 @@
 ___
 **ALX SCHOOL PROJECT**
 - This is alx-system_engineering-devops github repo
+- 0x02-shell_redirections
 
 \#Yesahek
